@@ -1,0 +1,6 @@
+requires a the jupyter notebook library to run. Pandas also required since the train set in my case is in a csv file
+to install them both run on terminal
+
+pip install pandas
+pip install jupyter notebook
+
