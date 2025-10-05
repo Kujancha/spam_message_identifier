@@ -1,4 +1,4 @@
-<head> Spam Ham mail Classification</head>
+#Spam Ham mail Classification
 The Hello World of ML projects
 
 
